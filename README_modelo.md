@@ -8,8 +8,7 @@
 
 ## Alterações realizadas
 
-Criação de uma nova branch e alteração do ficheiro README_modelo.md com os dados do aluno.
-
+Alteração realizada diretamente na branch main.
 ---
 
 ## Observações (opcional)
