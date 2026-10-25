@@ -1,14 +1,14 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Afonso Faria 
+- **Número: 22605394  
+- **Turma: Videojogos
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Criação de uma nova branch e alteração do ficheiro README_modelo.md com os dados do aluno.
 
 ---
 
