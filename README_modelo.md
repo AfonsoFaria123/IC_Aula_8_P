@@ -8,7 +8,8 @@
 
 ## Alterações realizadas
 
-Alteração realizada diretamente na branch main.
+Alteração realizada na branch fix_afonso.
+
 ---
 
 ## Observações (opcional)
